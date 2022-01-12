@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.honda-bg-info {
+    background-color: #264653;
+}
+
+.honda-small-p {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    color: #fff;
+}
+
+.honda-text-white {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    color: #fff;
+}
+
+.honda-text-black {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    color: #000;
+}
+
+.client-say-text {
+    color: #E76F51;
+}
+
+.feature-bike-slug {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #E76F51;
+}
+
+hr {
+    border: 1px solid #E76F51;
+    border-radius: 1px;
+    width: 59px;
+    margin: 0 auto;
+}
+
+.honda-text-p {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #E0E0E0;
+}
+
+.honda-button {
+    padding: 10px;
+    background: #E76F51;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.features-bike img {
+    width: 288px;
+    height: 243px;
+}
+
+.gray-scale {
+    filter: gray;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+.honda-news-title {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 40px;
+    color: #18191F;
+}
+
+.honda-news-desc {
+    color: #6C6C6C;
+    font-size: 16px;
+}
+
+.client-say img {
+    width: 149px;
+    height: 149px;
+}
+
+.user-name {
+    font-size: 14px;
+    line-height: 24px;
+    color: #23A6F0;
+}
+
+.user-profession {
+    font-size: 14px;
+    line-height: 24px;
+    color: #252B42;
+}
+
+
+/* Faq */
